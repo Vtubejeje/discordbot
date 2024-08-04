@@ -34,7 +34,6 @@ module.exports = {
                             "- Fun commands to entertain your members\n" +
                             "- Multiple music systems for listening to music\n" +
                             "- Utility commands for various practical tasks\n" +
-                            "- Anime / Hentai / Meme commands \n\n" +
                             `**Usage:**\n` +
                             "Use slash commands or prefix commands to invoke bot commands.\n\n",
                         commands: [
