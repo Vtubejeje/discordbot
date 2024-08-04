@@ -25,7 +25,7 @@ module.exports = {
                     {
                         title: "Bot Information",
                         description: `This bot offers a comprehensive suite of commands designed to enhance your Discord server experience. It seamlessly integrates both prefix and slash commands\n\n` +
-                            `**Developed By:** GlaceYT\n` +
+                            `**Developed By:** Vtube yt\n` +
                             `**Version:** 1.0.0\n` +
                             `**Node Version:** v20.12.2\n` +
                             `**Discord.js Version:** 14.15.3\n\n` +
