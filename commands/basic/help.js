@@ -117,12 +117,6 @@ module.exports = {
                             page.thumbnail = "https://cdn.discordapp.com/attachments/1264507601614540882/1269558385745985618/standrd.gif?ex=66b07fe2&is=66af2e62&hm=4b989f69fef7605a3d64a11f36c83f822db1aa6853ad3cd0992e29f67c444fda&";
                             page.author.iconURL = "https://cdn.discordapp.com/attachments/1264507601614540882/1269558385745985618/standrd.gif?ex=66b07fe2&is=66af2e62&hm=4b989f69fef7605a3d64a11f36c83f822db1aa6853ad3cd0992e29f67c444fda&";
                             break;
-                        case 'anime':
-                            page.image = "https://cdn.discordapp.com/attachments/1246408947708072027/1253714802048499752/1111.gif?ex=6676dc65&is=66758ae5&hm=9bc3f45ed4930d62def2369c6a27fdd65f24df0fdbe557a7ff7d330090eac1bf&";
-                            page.color = "#ff66cc";
-                            page.thumbnail = "https://cdn.discordapp.com/attachments/1246408947708072027/1264191552998342687/All_in_one.png?ex=669cf9a1&is=669ba821&hm=eec8a5ec58467205c61757d7b4450785b31dc739e7351f3e5ce230d7eb6fb1d9&";
-                            page.author.iconURL = "https://cdn.discordapp.com/attachments/1246408947708072027/1255167194036437093/1558-zerotwo-exciteddance.gif?ex=667c250a&is=667ad38a&hm=09e6db36fd79436eb57de466589f21ca947329edd69b8e591d0f6586b89df296&";
-                            break;
                         default:
                             page.color = "#3498db"; // Set a default color if none matches
                             break;
