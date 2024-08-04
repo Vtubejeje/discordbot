@@ -216,7 +216,7 @@ module.exports = {
 
        
         try {
-            await commandUser.send(`The word is: **${currentWord}** keep it seacret 🙈🔒`);
+            await commandUser.send(`The word is: **${currentWord}** keep it secret 🙈🔒`);
         } catch (error) {
             if (!interaction.replied) {
                 await interaction.reply({ content: 'Failed to send DM to the game host. The game is cancelled.', ephemeral: true });
