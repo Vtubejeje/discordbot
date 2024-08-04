@@ -37,17 +37,16 @@ module.exports = {
                             `**Usage:**\n` +
                             "Use slash commands or prefix commands to invoke bot commands.\n\n",
                         commands: [
-                            "\nJoin our Discord server - [Discord](https://discord.gg/xQF9f9yUEM)\n\n" +
+                            "\nJoin our Discord server - [Discord](https://discord.gg/Bsz6CkfS9f)\n\n" +
                             "**Follow us on:**\n" +
-                            "- My GitHub Page: [GitHub](https://github.com/GlaceYT)\n" +
-                            "- Other bot source: [Replit](https://replit.com/@GlaceYT)\n" +
-                            "- Check out My channel: [YouTube](https://www.youtube.com/@GlaceYT)"
+                            "- My GitHub Page: [GitHub](https://github.com/Vtubejeje)\n" +
+                            "- Check out My channel: [YouTube](https://www.youtube.com/@Vtubeprime)"
                         ],
-                        image: "https://cdn.discordapp.com/attachments/1246408947708072027/1264191161212342282/GlaceYT_1.png?ex=669cf944&is=669ba7c4&hm=3170787ef8dfcde922996ce7bdbaf909c4a18b3e9d757cee8b020ddc70e12c84&",
+                        image: "https://cdn.discordapp.com/attachments/1264507601614540882/1269557514916204595/make_a_thumbnai_44caec82-5bd5-4e8f-8ee8-faa6a05d9c9c.png?ex=66b07f12&is=66af2d92&hm=5af77b3ce85e475c3501e499131e4fca913fd09e36ded2474e9a54719ddd0c58&",
                         color: "#3498db",
-                        thumbnail: "https://cdn.discordapp.com/attachments/1246408947708072027/1264191552998342687/All_in_one.png?ex=669cf9a1&is=669ba821&hm=eec8a5ec58467205c61757d7b4450785b31dc739e7351f3e5ce230d7eb6fb1d9&",
+                        thumbnail: "https://cdn.discordapp.com/attachments/1264507601614540882/1269558385745985618/standrd.gif?ex=66b07fe2&is=66af2e62&hm=4b989f69fef7605a3d64a11f36c83f822db1aa6853ad3cd0992e29f67c444fda&",
                         author: {
-                            name: "ALL IN ONE BOT",
+                            name: "MULTI-PURPOSE BOT",
                             iconURL: "https://cdn.discordapp.com/attachments/1230824451990622299/1253655046835408917/2366-discord-developers.gif?ex=6676a4be&is=6675533e&hm=0b39917ea5a274d222a001017886e3b43725191f671b34efe5349f82be57968c&",
                             url: "https://discord.gg/xQF9f9yUEM"
                         }
