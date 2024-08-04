@@ -9,20 +9,6 @@
     },
     "youtubeapi": "AIzaSyAholYB1sYcBuZu5pKfB0RTmLWyPG7rN44",
     "geniusToken": "0CHr9jtPjR7EKraXUVv6__8ELmEwFeUwt5vYAhk-is_fGOq-10-epdMzESkMPUnf",
-    "hentaicommands": {
-        "1252159749076553738": {
-            "status": false
-        },
-        "1264193986231271555": {
-            "status": false
-        },
-        "1262750919905247233": {
-            "status": false
-        },
-        "1106591466651922502": {
-            "status": true
-        }
-    },
     "excessCommands": {
         "utility": true,
         "other": true,
@@ -105,7 +91,7 @@
         }
     },
     "owners": {
-        "1252159749076553738": "1162771658130587739",
+        "1141694438272401508": "1162771658130587739",
         "1106591466651922502": "1162771658130587739"
     }
 }
